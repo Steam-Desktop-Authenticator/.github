@@ -58,7 +58,7 @@ Its lightweight design ensures minimal system resource usage while maintaining s
 ---
 
 <div align="center">
-  <img src="https://sdasteam.com/style/images/guide/11.png" width="720"/>
+  <img src="https://sdasteam.com/style/images/guide/11.png" width="500"/>
 </div>  
 
 ---
